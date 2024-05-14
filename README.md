@@ -1,10 +1,10 @@
-# Web Starter
+# Typography Only for Genshin Impact
 
-> Computers are dumb. Humans make them smart.
+> Genshin Impact for PC, Playstation, and mobile devices
 
-Starter (boilerplate) for all future projects.
+A web project to experiment with ONLY CSS typography.
 
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## CSS Concepts
+* Typography
+* Box model
+* CSS variables
