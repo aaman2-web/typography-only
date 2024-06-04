@@ -8,3 +8,5 @@ A web project to experiment with ONLY CSS typography.
 * Typography
 * Box model
 * CSS variables
+
+[Content source](https://en.wikipedia.org/wiki/Genshin_Impact)
